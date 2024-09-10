@@ -1,6 +1,6 @@
-# {{ repository.name }}
+# JesseHattabaugh.eth
 
-{{ repository.description }}
+code for https://jessehattabaugh.eth
 
 ## Getting Started
 
